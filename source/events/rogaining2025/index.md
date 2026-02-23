@@ -37,6 +37,7 @@
 overview.md
 program.md
 result.md
+../rogaining_report/index.md
 ```
 
 ```{admonition} 注意事項
